@@ -38,14 +38,19 @@
     "shortid": "^2.2.8"
   },
   "devDependencies": {
+    "casperjs": "^1.1.4",
     "chai": "^4.0.2",
     "grunt": "~0.4.5",
+    "grunt-casperjs": "^2.2.1",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-js-beautify": "^0.1.4",
     "grunt-mocha-test": "^0.12.7",
+    "grunt-run-node": "^0.1.7",
+    "grunt-wait-server": "^0.3.0",
     "jslint": "^0.10.1",
     "mocha": "^2.5.3",
     "nodemon": "^1.11.0",
+    "phantomjs": "^2.1.7",
     "should": "^9.0.2",
     "supertest": "^1.2.0"
   }
